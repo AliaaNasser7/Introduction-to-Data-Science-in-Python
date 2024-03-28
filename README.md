@@ -2,7 +2,7 @@
 
 This repository includes my assigments for the Coursera course, Introduction to Data Science in Python offered by The University of Michigan.
 
-Course link : https://www.coursera.org/learn/python-data-analysis?utm_source=umich&utm_medium=institutions&utm_campaign=michigan-online&utm_term=Introduction+to+Data+Science+in+Python&utm_content=website
+Course link : [Go to course](https://www.coursera.org/learn/python-data-analysis?utm_source=umich&utm_medium=institutions&utm_campaign=michigan-online&utm_term=Introduction+to+Data+Science+in+Python&utm_content=website)
 
 # Week 1
 - In this week you'll get an introduction to the field of data science, review common Python functionality and features.
